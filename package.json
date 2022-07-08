@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "puppeteer": "^15.3.1"
+  },
+  "name": "pruebas-con-puppeteer",
+  "description": "- Ingresa a una página y ejecuta acciones en la misma.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianszz/Puppeteer.git"
+  },
+  "author": "sebastianszz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastianszz/Puppeteer/issues"
+  },
+  "homepage": "https://github.com/sebastianszz/Puppeteer#readme"
+}

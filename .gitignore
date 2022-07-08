@@ -1,0 +1,11 @@
+# No subo la carpeta node modules
+node_modules
+
+# No subo las capturas hechas por el bot
+amazon-product0.jpg
+amazon-product1.jpg
+amazon.jpg
+amazon1.jpg
+amazon2.jpg
+amazon3.jpg
+amazon4.jpg

@@ -21,7 +21,7 @@ https://nodejs.org/es/
 npm i
 ```
 
-### Inia el software:
+### Inicia el software:
 
 ```
 node index.js

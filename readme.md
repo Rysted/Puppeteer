@@ -1,31 +1,28 @@
-# Puppeteer Básico.
+# Puppeteer Basico
 
-- Ingresa a una página y ejecuta acciones en la misma.
+Ingresa a una página y ejecuta acciones en la misma.
 
 ## Prerrequisitos 📋
 
 - Se necesita Node.Js para utilizar el software.
-- Se necesita una terminal para poder instalar y ejecutar el software.
 
 ```
 https://nodejs.org/es/
 ```
 
-## Instalacion y Comandos de consola. 🚀
-
-- Ejecuta el siguiente comando en la terminal.
-
-## Instalación 🔧.
+## Instalar los paquetes.
 
 ```
 npm i
 ```
 
-### Inicia el software:
+### Inicia 🚀:
 
 ```
 node index.js
 ```
+
+⚠️ Si falla solo vuelva a ejecutar el comando.
 
 ## Autor ✒️
 
